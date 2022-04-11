@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Результат сложения</title>
+<title>Площадь правильной пирамиды</title>
 </head>
 <body>
-	<h1>Результат сложения</h1>
+	<h1>Результат вычислений</h1>
 	<h2>Ваши введенные данные:</h2>
-	<p><strong>Первое слагаемое:</strong> ${first}</p>
-	<p><strong>Второе слагаемое:</strong> ${second}</p>
+	<p><strong>Высота пирамиды:</strong> ${first}</p>
+	<p><strong>Площадь основания:</strong> ${second}</p>
 	<p><strong>Результат:</strong> ${result}</p>
 </body>
 </html>
